@@ -1,6 +1,6 @@
 # 🏙️ Dubai Real Estate Rental Market Analysis
 
-[![Tableau Dashboard](https://img.shields.io/badge/Tableau-View_Dashboard-E97627?style=for-the-badge&logo=tableau)](INSERT_YOUR_TABLEAU_PUBLIC_LINK_HERE)
+[![Tableau Dashboard](https://img.shields.io/badge/Tableau-View_Dashboard-E97627?style=for-the-badge&logo=tableau)](https://public.tableau.com/views/DubaiRealEstateAnalysis_17745603927740/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 [![Python](https://img.shields.io/badge/Python-Data_Processing-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 
 ## 📌 Executive Summary
