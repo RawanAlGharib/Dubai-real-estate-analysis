@@ -39,7 +39,7 @@ The executive dashboard was designed for non-technical stakeholders to quickly g
 ---
 
 ## 📂 Repository Structure
-* `dubai_rental_market_analysis.py` - The core Python script used for data cleaning, transformation, and aggregation.
+* `Dubai_rental_market_analysis.py` - The core Python script used for data cleaning, transformation, and aggregation.
 * `Dubai_Rental_Market_Trends.csv` - The aggregated, optimized dataset powering the dashboard.
 * `Real_Estate_dashboard.png` - A high-resolution preview of the final Tableau visualization.
 * `requirements.txt` - Python dependencies (`pandas`, `numpy`).
